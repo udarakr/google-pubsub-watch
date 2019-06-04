@@ -1,0 +1,3 @@
+[configs]
+TOPIC = projects/<PROJECT_ID>/topics/<TOPIC_ID>
+LABEL = INBOX
